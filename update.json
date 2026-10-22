@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": true,
+    "version": "13.0.3",
+    "mandatory": true,
+    "update_url": "https://apkprimehub.com/telegram-premium-apk/",
+    "title": "Update Available!",
+    "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://whatsapp.com/channel/0029VaAY7prBadmTwGeztz0L"
+      },
+      {
+        "name": "twitter",
+        "url": "https://telegram.me/goldmodsapk"
+      },
+      {
+        "name": "instagram",
+        "url": "https://insta.openinapp.co/se81m"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.youtube.com/@surajitmodz"
+      }
+    ]
+  }
+}
